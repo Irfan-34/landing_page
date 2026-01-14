@@ -83,6 +83,7 @@ This project is open source and available for personal and commercial use.
 
 **Irfan-34**
 - GitHub: [@Irfan-34](https://github.com/Irfan-34)
+- Email: muhammedirfannazar@gmail.com
 
 ## ⭐ Show your support
 
